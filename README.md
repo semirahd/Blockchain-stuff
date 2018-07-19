@@ -174,6 +174,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [EverydayCrpto](https://www.youtube.com/user/Cryptoeveryday/videos)
 * [Let's Talk Bitcoin](https://www.youtube.com/user/LetsTalkBitcoinChan)
 * [MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub/videos)
+* [Semirah Dolan] (https://www.youtube.com/user/MsRandomKitty)
 * [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
 * [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 * [Texas Bitcoin Conference](Industy Info, Technical)
